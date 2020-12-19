@@ -31,4 +31,4 @@ jobs:
         cat docker-compose.yml
         docker-compose -f docker-compose.yml up -d
     - name: Wait for Agent to Register
-      run: bash wait_for_agent.sh  
+      run: bash ./wait_for_agent.sh  
