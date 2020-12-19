@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="292d6088-704f-4726-918e-42933a3a2632" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JupyterTrust" id="bf33a1d3-b9ec-43f4-bc3a-6693d143e1f2" />
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="guidecluster" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fOEo6p7zVMPNngIcMgASLjbak1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/suites" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/suites" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/webdriver/local" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="server" />
+      <recent name="webdriver.local" />
+      <recent name="listeners" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/suites" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Remote.remote debug">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remote debug" type="Remote">
+      <module name="testproject" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="SampleTest.sample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <useClassPathOnly />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.vinh.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.vinh.tests.SampleTest" />
+      <option name="METHOD_NAME" value="sample" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Remote.remote debug" />
+      <item itemvalue="TestNG.SampleTest.sample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SampleTest.sample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="292d6088-704f-4726-918e-42933a3a2632" name="Default Changelist" comment="" />
+      <created>1596080910133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596080910133</updated>
+      <workItem from="1596080915215" duration="37484000" />
+      <workItem from="1596419749241" duration="581000" />
+      <workItem from="1596516810103" duration="263000" />
+      <workItem from="1596614302095" duration="565000" />
+      <workItem from="1597457121410" duration="220000" />
+      <workItem from="1598880342535" duration="761000" />
+      <workItem from="1599097094373" duration="1445000" />
+      <workItem from="1599191174141" duration="3690000" />
+      <workItem from="1599213509064" duration="4327000" />
+      <workItem from="1599929498812" duration="398000" />
+      <workItem from="1600080008940" duration="3574000" />
+      <workItem from="1600611150286" duration="1650000" />
+      <workItem from="1601173910630" duration="595000" />
+      <workItem from="1601431038437" duration="19000" />
+      <workItem from="1602124869945" duration="2427000" />
+      <workItem from="1602208892571" duration="596000" />
+      <workItem from="1602468629054" duration="590000" />
+      <workItem from="1602487427174" duration="595000" />
+      <workItem from="1604370268948" duration="2000" />
+      <workItem from="1605425300502" duration="35454000" />
+      <workItem from="1608371803965" duration="1805000" />
+      <workItem from="1608373639425" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="600" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608373738813">
+      <screen x="34" y="25" width="1646" height="1025" />
+    </state>
+    <state x="600" y="334" key="#com.intellij.fileTypes.FileTypeChooser/34.25.1646.1025@34.25.1646.1025" timestamp="1608373738813" />
+    <state x="386" y="134" key="SettingsEditor" timestamp="1608373729393">
+      <screen x="34" y="25" width="1646" height="1025" />
+    </state>
+    <state x="386" y="134" key="SettingsEditor/34.25.1646.1025@34.25.1646.1025" timestamp="1608373729393" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

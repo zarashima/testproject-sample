@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite" verbose="5" thread-count="99" parallel="tests">
+<test name="Example Test on Firefox">
+		<parameter name="runWhere" value="local"/>
+		<parameter name="browserName" value="firefox"/>
+		<classes>
+			<class name="com.vinh.tests.SampleTest"/>
+		</classes>
+	</test>
+</suite>

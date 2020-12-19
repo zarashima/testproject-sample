@@ -1,0 +1,20 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "vinhnguyen5",
+  "key": "BGXjQCA1xCVc7JKsh2ez",
+
+  "capabilities": {
+    "browserstack.debug": "true",
+	"browserstack.idleTimeout": 120
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+    },
+
+	"firefox": {
+	  "browser": "firefox"
+	}
+  }
+}
