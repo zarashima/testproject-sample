@@ -33,4 +33,4 @@ jobs:
     - name: Wait for Agent to Register
       run: |
         chmod +x wait_for_agent.sh
-        sh ./wait_for_agent.sh  
+        sh ./wait_for_agent.sh
