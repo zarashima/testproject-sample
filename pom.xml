@@ -122,7 +122,8 @@
 		<dependency>
 			<groupId>io.testproject</groupId>
 			<artifactId>java-sdk</artifactId>
-			<version>0.64.4-RELEASE</version>
+			<version>0.63.4-RELEASE</version>
+			<classifier>sources</classifier>
 		</dependency>
 
 		<dependency>
