@@ -20,6 +20,10 @@ jobs:
       uses: actions/setup-java@v1
       with:
         java-version: 1.8
+    - name: Create env file
+      run: |
+        touch .env
+        echo TP_API_KEY=${{ secrets.TP_API_KEY }} >> .env:  
     - name: Run TestProject Agent
       env:
         TP_API_KEY: ${{ secrets.TP_API_KEY }} 
