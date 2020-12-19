@@ -23,7 +23,7 @@ jobs:
     - name: Create env file
       run: |
         touch .env
-        echo TP_API_KEY=${{ secrets.TP_API_KEY }} >> .env:  
+        echo TP_API_KEY=${{ secrets.TP_API_KEY }} >> .env  
     - name: Run TestProject Agent
       env:
         TP_API_KEY: ${{ secrets.TP_API_KEY }} 
@@ -31,4 +31,6 @@ jobs:
         cat docker-compose.yml
         docker-compose -f docker-compose.yml up -d
     - name: Wait for Agent to Register
-      run: sh ./wait_for_agent.sh  
+      run: |
+        chmod +x ./wait_for_agent.sh
+        sh ./wait_for_agent.sh  
