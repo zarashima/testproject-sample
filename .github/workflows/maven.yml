@@ -46,3 +46,5 @@ jobs:
             attempt_counter=$(($attempt_counter+1))
             sleep 1
           done
+    - name: Execute tests
+      run: mvn clean test -DtestSuite=suite
