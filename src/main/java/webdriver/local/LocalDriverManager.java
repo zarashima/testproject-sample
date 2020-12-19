@@ -1,17 +1,10 @@
 package webdriver.local;
 
-import helpers.StringConstants;
-import io.testproject.sdk.drivers.TestProjectCapabilityType;
 import io.testproject.sdk.drivers.web.ChromeDriver;
-import io.testproject.sdk.drivers.web.EdgeDriver;
 import io.testproject.sdk.drivers.web.FirefoxDriver;
-import io.testproject.sdk.drivers.web.RemoteWebDriver;
 import io.testproject.sdk.internal.exceptions.AgentConnectException;
 import io.testproject.sdk.internal.exceptions.InvalidTokenException;
 import io.testproject.sdk.internal.exceptions.ObsoleteVersionException;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
