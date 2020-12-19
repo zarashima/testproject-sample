@@ -24,6 +24,7 @@ jobs:
       run: |
         touch .env
         echo TP_API_KEY=${{ secrets.TP_API_KEY }} >> .env  
+        echo TP_DEV_TOKEN=${{ secrets.TP_DEV_TOKEN }} >> .env  
     - name: Run TestProject Agent
       env:
         TP_API_KEY: ${{ secrets.TP_API_KEY }} 
